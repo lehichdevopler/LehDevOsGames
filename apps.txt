@@ -1,4 +1,4 @@
-weather.bat|Погода в Гродно
+Pogoda.bat|Погода в Гродно
 hack.bat|Симулятор хакера (Matrix Style)
-numbers.bat|Игра Числа (Угадай-ка)
+chisla.bat|Игра Числа (Угадай-ка)
 fortune.bat|Гадалка (Шар судьбы)
