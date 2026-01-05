@@ -1,5 +1,4 @@
-game.bat|Супер Игра Угадайка
-virus.bat|Шуточный вирус
-calc.bat|Мощный калькулятор
-clock.bat|Часы на весь экран
-test.bat|Тестовый файл
+weather.bat|Погода в Гродно
+hack.bat|Симулятор хакера (Matrix Style)
+numbers.bat|Игра Числа (Угадай-ка)
+fortune.bat|Гадалка (Шар судьбы)
