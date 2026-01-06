@@ -1,3 +1,8 @@
-hack.bat|Симулятор хакера (Matrix Style)
-chisla.bat|Игра Числа (Угадай-ка)
-fortune.bat|Гадалка (Шар судьбы)
+Chislo?.bat|Угадай число
+MiniCalc.bat|Мини Калькулятор
+Timer.bat|Таймер
+clock.bat|Часы
+filemanMicro.bat|Мини прооводник(Community)
+matrix.bat|Матрица Фейк(Community)
+notes.bat|Заметки
+osINFO.bat|Продвинутая информация устройства
